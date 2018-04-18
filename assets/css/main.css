@@ -149,6 +149,9 @@ footer div {
 .instagram {
   font-size: 5rem;
 }
+footer {
+  padding: 6rem;
+}
 /* ----- HELPFUL TAGS ----- */
 .no-padding {
   padding: 0;
